@@ -27,8 +27,14 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import book from './book.png';
+import scholarshipPEC from './scholarshipPEC.png';
+import bot from './discordbot.png';
 
 export {
+  bot,
+  scholarshipPEC,
+  book,
   logo,
   backend,
   creator,

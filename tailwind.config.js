@@ -6,6 +6,7 @@ export const theme = {
     colors: {
       primary: "#050816",
       secondary: "#aaa6c3",
+      hero:'#827891',
       tertiary: "#151030",
       "black-100": "#100d25",
       "black-200": "#090325",
@@ -19,6 +20,11 @@ export const theme = {
     },
     backgroundImage: {
       "hero-pattern": "url('/src/assets/herobg.png')",
+      "sunrise-pattern" : "url('/src/assets/wepik-export-20230626210910sFhh.png')",
+      "space" : "url('/src/assets/galaxy-night-view.jpg')",
+      "sun" : "url('/src/assets/1459.jpg')",
+      "sky" : "url('/src/assets/sky.png')"
+
     },
   },
 };
