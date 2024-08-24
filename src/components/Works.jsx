@@ -74,8 +74,8 @@ const Works = () => {
         className='mt-5 text-[17px] leading-[30px] max-w-3xl text-secondary'
         >
 
-          These are some of the Projects that i Have prepared as I have learned Web Development from various platforms.
-          All these Projects are Present at my GitHub Repository. It reflects my ability to work with different technologies and Solve complex problems effectively.
+          These are some of the Projects that I have prepared as I have learned Web Development from various platforms.
+          All these Projects are Present on my GitHub. It reflects my ability to work with different technologies and Solve complex problems effectively.
 
         </motion.p>
       </div>

@@ -30,8 +30,16 @@ import tripguide from "./tripguide.png";
 import book from './book.png';
 import scholarshipPEC from './scholarshipPEC.png';
 import bot from './discordbot.png';
+import dukaan from './dukaan.png'
+import chat_support from './chat_support.png'
+import learnhub from './learnhub.png'
+import data_analytics from './analytics.png'
 
 export {
+  data_analytics,
+  dukaan,
+  learnhub,
+  chat_support,
   bot,
   scholarshipPEC,
   book,
